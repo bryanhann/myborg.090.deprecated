@@ -1,0 +1,3 @@
+This modules uses a deprecated form of insitu activation
+to exercise/demonstrate the [myborg] flagging the user
+of the deprecated use.
